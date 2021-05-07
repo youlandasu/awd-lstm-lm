@@ -1,3 +1,4 @@
 *.pt
 __pycache__/
 data/
+!data/enwik8/prep_enwik8.py
